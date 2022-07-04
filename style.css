@@ -1,0 +1,14 @@
+body{
+    font-family: 'Signika Negative', sans-serif;}
+    h1{
+        font-size: 50px;
+    }
+    .taj{
+        color: coral;
+    }
+    .welcome{
+        color: brown;
+    }
+    .world{
+        color: rgb(202, 13, 174);
+    }
