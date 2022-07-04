@@ -1,5 +1,6 @@
 body{
-    font-family: 'Signika Negative', sans-serif;}
+    font-family: 'Signika Negative', sans-serif;
+    margin: 0;}
     h1{
         font-size: 50px;
     }
@@ -11,4 +12,26 @@ body{
     }
     .world{
         color: rgb(202, 13, 174);
+    }
+    section{
+        display: flex;
+    }
+    .half-width{
+        width: 90%;
+        padding: 5%;
+    }
+    .half-width img{
+        width: 80%;
+    }
+    .link-button{
+        text-decoration: none;
+        background-color: coral;
+        background-image: linear-gradient(orange tomato);
+        padding: 5px 10px;
+        font-weight: 600;
+        border-radius: 5px;
+    }
+    .top-banner{
+        background-image: url(images/top-banner.png);
+        background-repeat: no-repeat;
     }
